@@ -1,0 +1,28 @@
+{
+  "user": {
+    "name": "Guilherme"
+  },
+  "exercises": [
+    {
+      "upperBody": [
+        {
+          "arms": {
+            "name": "arms",
+            "reps": "3",
+            "quantity": "12"
+          },
+          "shoulders": {
+            "name": "shoulders",
+            "reps": "3",
+            "quantity": "12"
+          },
+          "biceps": {
+            "name": "biceps",
+            "reps": "3",
+            "quantity": "12"
+          }
+        }
+      ]
+    }
+  ]
+}
