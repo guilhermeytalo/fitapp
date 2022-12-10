@@ -1,3 +1,3 @@
 # Fit app
 
-just a randon app for hym bud giga chads
+just a randon app for gym bud giga chads
